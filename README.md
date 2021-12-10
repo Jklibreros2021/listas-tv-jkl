@@ -1,7 +1,4 @@
-Buscador de entradas
-#extm3u latino
-Playlist Finder
-4 dic a las 14:01
+
 #EXTM3U
 #EXTINF:-1,6 - Repretel
 http://201.190.38.82:8000/play/a02q/index.m3u8
